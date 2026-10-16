@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.gif" width="100%" alt="Jhonatan" />
+  <img src="banner-colors.gif" width="100%" alt="Jhonatan" />
 </p>
 
 <p align="center">
