@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&amp;weight=500&amp;size=20&amp;duration=2800&amp;pause=900&amp;color=60A5FA&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Interfaces+en+React+y+TypeScript;APIs+en+.NET+y+PostgreSQL;Herramientas+de+escritorio+en+Python" alt="En qué trabajo" />
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Segoe+UI&amp;weight=500&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=60A5FA&amp;center=true&amp;vCenter=true&amp;width=440&amp;lines=React+y+TypeScript;.NET+y+PostgreSQL;Python+de+escritorio" alt="En qué trabajo" />
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
       <a href="https://github.com/JHONATAN-99/SeparadorPista">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=JHONATAN-99&amp;repo=SeparadorPista&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff" />
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JHONATAN-99&amp;repo=SeparadorPista&amp;hide_border=true&amp;bg_color=f8fafc&amp;title_color=1d4ed8&amp;text_color=334155&amp;icon_color=2563eb" alt="SeparadorPista" />
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=JHONATAN-99&amp;repo=SeparadorPista&amp;hide_border=true&amp;bg_color=f8fafc&amp;title_color=1d4ed8&amp;text_color=334155&amp;icon_color=2563eb" alt="SeparadorPista" />
         </picture>
       </a>
     </td>
@@ -49,7 +49,7 @@
       <a href="https://github.com/JHONATAN-99/Web">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=JHONATAN-99&amp;repo=Web&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff" />
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JHONATAN-99&amp;repo=Web&amp;hide_border=true&amp;bg_color=f8fafc&amp;title_color=1d4ed8&amp;text_color=334155&amp;icon_color=2563eb" alt="Web" />
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=JHONATAN-99&amp;repo=Web&amp;hide_border=true&amp;bg_color=f8fafc&amp;title_color=1d4ed8&amp;text_color=334155&amp;icon_color=2563eb" alt="Web" />
         </picture>
       </a>
     </td>
@@ -59,7 +59,7 @@
       <a href="https://github.com/JHONATAN-99/Simulador">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=JHONATAN-99&amp;repo=Simulador&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff" />
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JHONATAN-99&amp;repo=Simulador&amp;hide_border=true&amp;bg_color=f8fafc&amp;title_color=1d4ed8&amp;text_color=334155&amp;icon_color=2563eb" alt="Simulador" />
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=JHONATAN-99&amp;repo=Simulador&amp;hide_border=true&amp;bg_color=f8fafc&amp;title_color=1d4ed8&amp;text_color=334155&amp;icon_color=2563eb" alt="Simulador" />
         </picture>
       </a>
     </td>
@@ -67,7 +67,7 @@
       <a href="https://github.com/JHONATAN-99/ArquiII">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=JHONATAN-99&amp;repo=ArquiII&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff" />
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JHONATAN-99&amp;repo=ArquiII&amp;hide_border=true&amp;bg_color=f8fafc&amp;title_color=1d4ed8&amp;text_color=334155&amp;icon_color=2563eb" alt="ArquiII" />
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=JHONATAN-99&amp;repo=ArquiII&amp;hide_border=true&amp;bg_color=f8fafc&amp;title_color=1d4ed8&amp;text_color=334155&amp;icon_color=2563eb" alt="ArquiII" />
         </picture>
       </a>
     </td>
@@ -77,7 +77,7 @@
       <a href="https://github.com/JHONATAN-99/SalonUnias">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=JHONATAN-99&amp;repo=SalonUnias&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff" />
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JHONATAN-99&amp;repo=SalonUnias&amp;hide_border=true&amp;bg_color=f8fafc&amp;title_color=1d4ed8&amp;text_color=334155&amp;icon_color=2563eb" alt="SalonUnias" />
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=JHONATAN-99&amp;repo=SalonUnias&amp;hide_border=true&amp;bg_color=f8fafc&amp;title_color=1d4ed8&amp;text_color=334155&amp;icon_color=2563eb" alt="SalonUnias" />
         </picture>
       </a>
     </td>
