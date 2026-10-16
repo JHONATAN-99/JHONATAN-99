@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:0B1220,100:1D4ED8&amp;height=210&amp;section=header&amp;text=Jhonatan&amp;fontSize=54&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=34&amp;desc=Desarrollo%20web%20%C2%B7%20.NET%20%C2%B7%20React&amp;descAlignY=58" width="100%" alt="Jhonatan" />
+  <img src="banner.svg" width="100%" alt="Jhonatan" />
 </p>
 
 <p align="center">
