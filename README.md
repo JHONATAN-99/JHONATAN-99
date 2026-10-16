@@ -88,7 +88,7 @@
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
       <br /><br />
-      Nómina, recursos humanos, gastos y autenticación. El repositorio es privado.
+      TMS, OmniOps, nómina, recursos humanos, gastos y autenticación. El repositorio es privado.
     </td>
   </tr>
 </table>
