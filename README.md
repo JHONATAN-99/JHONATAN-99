@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" width="100%" alt="Jhonatan" />
+  <img src="https://raw.githubusercontent.com/JHONATAN-99/JHONATAN-99/main/banner.svg" width="100%" alt="Jhonatan" />
 </p>
 
 <p align="center">
