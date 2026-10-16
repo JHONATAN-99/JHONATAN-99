@@ -95,12 +95,12 @@
 
 ---
 
-<h2 align="center">Actividad</h2>
+<h2 align="center">Actividad 2026</h2>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JHONATAN-99&amp;show_icons=true&amp;hide_border=true&amp;locale=es&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=JHONATAN-99&amp;show_icons=true&amp;hide_border=true&amp;locale=es&amp;bg_color=f8fafc&amp;title_color=1d4ed8&amp;text_color=334155&amp;icon_color=2563eb" alt="Estadísticas de GitHub" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JHONATAN-99&amp;show_icons=true&amp;hide_border=true&amp;locale=es&amp;commits_year=2026&amp;custom_title=Actividad%202026&amp;hide=stars,issues,contribs&amp;show=prs_merged&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=JHONATAN-99&amp;show_icons=true&amp;hide_border=true&amp;locale=es&amp;commits_year=2026&amp;custom_title=Actividad%202026&amp;hide=stars,issues,contribs&amp;show=prs_merged&amp;bg_color=f8fafc&amp;title_color=1d4ed8&amp;text_color=334155&amp;icon_color=2563eb" alt="Actividad 2026" />
   </picture>
   &nbsp;
   <picture>
