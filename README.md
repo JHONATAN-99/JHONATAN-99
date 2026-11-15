@@ -18,7 +18,7 @@
 
 Soy desarrollador full stack. Construyo aplicaciones web de punta a punta (API en **.NET**, interfaz en **React + TypeScript**, datos en **PostgreSQL**) y herramientas de escritorio en **Python**.
 
-- Trabajo ahora en un **ERP modular** que cubre transporte, monitoreo de plantas de almacenamiento de energía, nómina, recursos humanos y gastos.
+- Trabajo ahora en un **ERP modular** que cubre capacitación, monitoreo de plantas de almacenamiento de energía, nómina, recursos humanos y gastos.
 - Me interesa el software que resuelve problemas concretos de negocio y la IA aplicada que corre en local.
 - Si quieres hablar de un proyecto o una oportunidad, escríbeme por LinkedIn, correo o WhatsApp.
 
@@ -38,7 +38,7 @@ Soy desarrollador full stack. Construyo aplicaciones web de punta a punta (API e
       <img src="https://img.shields.io/badge/repositorio-privado-64748B?style=flat-square" alt="Repositorio privado" />
       <p>Un sistema de gestión empresarial dividido en módulos independientes que comparten la autenticación y la base de datos:</p>
       <ul>
-        <li><b>TMS</b>: gestión de transporte</li>
+        <li><b>TMS</b>: plataforma de capacitación con cursos grabados y emisión de certificados</li>
         <li><b>OmniOps</b>: monitoreo de plantas eléctricas que almacenan energía en baterías de litio</li>
         <li><b>Nómina</b> y <b>Recursos humanos</b></li>
         <li><b>Gastos</b></li>
